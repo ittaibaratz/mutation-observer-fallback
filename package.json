@@ -1,0 +1,11 @@
+{
+  "name": "mutation-observer-fallback",
+  "dependencies": {
+    "parcel": "2.8.3"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "twoCss": "parcel src/indexTwoCss.html"
+  },
+  "browserslist": "last two Chrome versions"
+}
